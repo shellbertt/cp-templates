@@ -5,4 +5,3 @@ ints = lambda: list(map(int, input().split()))
 Int = lambda: int(input())
 yn = lambda b: print("YES" if b else "NO")
 
-
